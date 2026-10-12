@@ -1,0 +1,6 @@
+{
+  "name": "NCAR Tec - Soluções em Tecnologia & Loja de Informática",
+  "description": "Loja online e assistência técnica de referência em Moçambique: portáteis, telemóveis, redes, Starlink, CCTV e suporte corporativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
